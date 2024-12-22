@@ -1,0 +1,36 @@
+C:\Users\Home-pc\Desktop\PR_7.2\PR_7.2\obj\Debug\PR_7.2.csproj.AssemblyReference.cache
+C:\Users\Home-pc\Desktop\PR_7.2\PR_7.2\obj\Debug\MainWindow.g.cs
+C:\Users\Home-pc\Desktop\PR_7.2\PR_7.2\obj\Debug\App.g.cs
+C:\Users\Home-pc\Desktop\PR_7.2\PR_7.2\obj\Debug\PR_7.2_MarkupCompile.cache
+C:\Users\Home-pc\Desktop\PR_7.2\PR_7.2\obj\Debug\PR_7.2_MarkupCompile.lref
+C:\Users\Home-pc\Desktop\PR_7.2\PR_7.2\bin\Debug\PR_7.2.exe.config
+C:\Users\Home-pc\Desktop\PR_7.2\PR_7.2\bin\Debug\PR_7.2.exe
+C:\Users\Home-pc\Desktop\PR_7.2\PR_7.2\bin\Debug\PR_7.2.pdb
+C:\Users\Home-pc\Desktop\PR_7.2\PR_7.2\obj\Debug\MainWindow.baml
+C:\Users\Home-pc\Desktop\PR_7.2\PR_7.2\obj\Debug\PR_7.2.g.resources
+C:\Users\Home-pc\Desktop\PR_7.2\PR_7.2\obj\Debug\PR_7._2.Properties.Resources.resources
+C:\Users\Home-pc\Desktop\PR_7.2\PR_7.2\obj\Debug\PR_7.2.csproj.GenerateResource.cache
+C:\Users\Home-pc\Desktop\PR_7.2\PR_7.2\obj\Debug\PR_7.2.csproj.CoreCompileInputs.cache
+C:\Users\Home-pc\Desktop\PR_7.2\PR_7.2\obj\Debug\PR_7.2.exe
+C:\Users\Home-pc\Desktop\PR_7.2\PR_7.2\obj\Debug\PR_7.2.pdb
+C:\Users\Home-pc\Desktop\Разработка - сдача долгов\Разработка кода информационных систем\PR_7_2 - -\PR_7.2\PR_7.2\bin\Debug\PR_7.2.exe.config
+C:\Users\Home-pc\Desktop\Разработка - сдача долгов\Разработка кода информационных систем\PR_7_2 - -\PR_7.2\PR_7.2\bin\Debug\PR_7.2.exe
+C:\Users\Home-pc\Desktop\Разработка - сдача долгов\Разработка кода информационных систем\PR_7_2 - -\PR_7.2\PR_7.2\bin\Debug\PR_7.2.pdb
+C:\Users\Home-pc\Desktop\Разработка - сдача долгов\Разработка кода информационных систем\PR_7_2 - -\PR_7.2\PR_7.2\obj\Debug\PR_7.2.csproj.AssemblyReference.cache
+C:\Users\Home-pc\Desktop\Разработка - сдача долгов\Разработка кода информационных систем\PR_7_2 - -\PR_7.2\PR_7.2\obj\Debug\MainWindow.g.cs
+C:\Users\Home-pc\Desktop\Разработка - сдача долгов\Разработка кода информационных систем\PR_7_2 - -\PR_7.2\PR_7.2\obj\Debug\App.g.cs
+C:\Users\Home-pc\Desktop\Разработка - сдача долгов\Разработка кода информационных систем\PR_7_2 - -\PR_7.2\PR_7.2\obj\Debug\PR_7.2_MarkupCompile.cache
+C:\Users\Home-pc\Desktop\Разработка - сдача долгов\Разработка кода информационных систем\PR_7_2 - -\PR_7.2\PR_7.2\obj\Debug\PR_7.2_MarkupCompile.lref
+C:\Users\Home-pc\Desktop\Разработка - сдача долгов\Разработка кода информационных систем\PR_7_2 - -\PR_7.2\PR_7.2\obj\Debug\MainWindow.baml
+C:\Users\Home-pc\Desktop\Разработка - сдача долгов\Разработка кода информационных систем\PR_7_2 - -\PR_7.2\PR_7.2\obj\Debug\PR_7.2.g.resources
+C:\Users\Home-pc\Desktop\Разработка - сдача долгов\Разработка кода информационных систем\PR_7_2 - -\PR_7.2\PR_7.2\obj\Debug\PR_7._2.Properties.Resources.resources
+C:\Users\Home-pc\Desktop\Разработка - сдача долгов\Разработка кода информационных систем\PR_7_2 - -\PR_7.2\PR_7.2\obj\Debug\PR_7.2.csproj.GenerateResource.cache
+C:\Users\Home-pc\Desktop\Разработка - сдача долгов\Разработка кода информационных систем\PR_7_2 - -\PR_7.2\PR_7.2\obj\Debug\PR_7.2.csproj.CoreCompileInputs.cache
+C:\Users\Home-pc\Desktop\Разработка - сдача долгов\Разработка кода информационных систем\PR_7_2 - -\PR_7.2\PR_7.2\obj\Debug\PR_7.2.exe
+C:\Users\Home-pc\Desktop\Разработка - сдача долгов\Разработка кода информационных систем\PR_7_2 - -\PR_7.2\PR_7.2\obj\Debug\PR_7.2.pdb
+C:\Users\Home-pc\Desktop\Разработка - сдача долгов\Разработка кода информационных систем\PR_7_2 - -\PR_7.2\PR_7.2\obj\Debug\Input.g.cs
+C:\Users\Home-pc\Desktop\Разработка - сдача долгов\Разработка кода информационных систем\PR_7_2 - -\PR_7.2\PR_7.2\obj\Debug\Input.baml
+C:\Users\Home-pc\Desktop\PR_7.2\PR_7.2\obj\Debug\Input.baml
+C:\Users\Home-pc\Desktop\PR_7.2\PR_7.2\obj\Debug\Input.g.cs
+C:\Users\Home-pc\Desktop\PR_7.2\PR_7.2\obj\Debug\Result.baml
+C:\Users\Home-pc\Desktop\PR_7.2\PR_7.2\obj\Debug\Result.g.cs
